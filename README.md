@@ -1,2 +1,2 @@
 # NLW-2nd-Week
-Project done @ Rocketseat - Next Level Week
+Project made from the Rocketseat - Next Level Week (dev marathon)
